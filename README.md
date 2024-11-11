@@ -31,7 +31,7 @@ Kali linux also powered and running on the virtual machine: <br/>
 <br />
 <br />
 Assigned a static IP to the windows machine:  <br/>
-<img src="https://i.imgur.com/93y44yD.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6D7m9rw.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
