@@ -30,8 +30,8 @@ Kali linux also powered and running on the virtual machine: <br/>
 <img src="https://i.imgur.com/tf5J4D3.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigned a static IP to the windows machine:  <br/>
+<img src="https://i.imgur.com/93y44yD.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
