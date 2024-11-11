@@ -19,27 +19,27 @@
 
 <p align="center">
 Download and install windows 10 as the OS on the virtual machine, and also download kali linux on the virtual machine as attacker machine: <br/>
-<img src="https://i.imgur.com/CA0C8ej.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CA0C8ej.jpeg.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
 Windows 10 powered and running on the virtual machine:  <br/>
-<img src="https://i.imgur.com/LfmEfxj.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/LfmEfxj.png.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
 Kali linux also powered and running on the virtual machine: <br/>
-<img src="https://i.imgur.com/tf5J4D3.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tf5J4D3.png.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
 Assigned a static IP to the windows machine:  <br/>
-<img src="https://i.imgur.com/6D7m9rw.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6D7m9rw.jpeg.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
 Assigned a static IP on kali:  <br/>
-<img src="https://i.imgur.com/wOfbdfR.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wOfbdfR.jpeg.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Confirmation that there’s connectivity between the two PCs:kali and windows:  <br/>
+<img src="https://i.imgur.com/or85oRf.jpeg.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
 
