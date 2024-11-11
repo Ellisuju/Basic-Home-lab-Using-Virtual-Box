@@ -18,16 +18,16 @@
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Download and install windows 10 as the OS on the virtual machine, and also download kali linux on the virtual machine as attacker machine: <br/>
+<img src="https://i.imgur.com/CA0C8ej.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Windows 10 powered and running on the virtual machine:  <br/>
+<img src="https://i.imgur.com/LfmEfxj.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Kali linux also powered and running on the virtual machine: <br/>
+<img src="https://i.imgur.com/tf5J4D3.png.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
