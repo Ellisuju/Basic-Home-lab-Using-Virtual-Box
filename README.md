@@ -34,8 +34,8 @@ Assigned a static IP to the windows machine:  <br/>
 <img src="https://i.imgur.com/6D7m9rw.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigned a static IP on kali:  <br/>
+<img src="https://i.imgur.com/wOfbdfR.jpeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
