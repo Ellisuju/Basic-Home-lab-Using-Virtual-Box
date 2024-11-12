@@ -9,6 +9,7 @@
 - <b>Windows 10 VM</b>
 - <b>7-Zip</b>
 - <b>Command Prompt (Windows)</b>
+- <b>Pyhton</b>
 
 <h2>Environments Used </h2>
 
@@ -42,6 +43,32 @@ Confirmation that there’s connectivity between the two PCs:kali and windows:  
 <img src="https://i.imgur.com/or85oRf.jpeg.png" height="80%" width="80%" alt="Home lab Steps"/>
 <br />
 <br />
+Msfvenom to create payload for basic malware:  <br/>
+<img src="https://i.imgur.com/9IO0OHz.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+List of msf payloads:  <br/>
+<img src="https://i.imgur.com/Kluopyx.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+Meterpreter reverse tcp payload is instructed to connect to my machine based on the lhost and lport:  <br/>
+<img src="https://i.imgur.com/0BIg4iH.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+Exploit console:  <br/>
+<img src="https://i.imgur.com/vXy8N5r.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+Lhost address changed to the windows address:  <br/>
+<img src="https://i.imgur.com/XBWK0kf.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+Used Pyhton to allow test machine act as kali machine and start downloading malware:  <br/>
+<img src="https://i.imgur.com/qrAraAX.png" height="80%" width="80%" alt="Home lab Steps"/>
+<br />
+<br />
+
+
 
 
 <!--
